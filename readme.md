@@ -23,7 +23,7 @@
 
 - Módulo 3: Programación Avanzada en Javascript
 
-- Módulo 4: Desarrollo de Aplicaciones web Frontend
+- Módulo 4: Desarrollo de Aplicaciones Web Frontend
 
 - Módulo 5: Lenguaje de Consultas a una Base de Datos PostgreSQL
 
