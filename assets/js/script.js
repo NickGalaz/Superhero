@@ -1,6 +1,3 @@
-// Prueba - Encuentra tu SuperHero
-// La aplicación estará disponible una vez que carguen todos los
-// elementos del DOM
 $(document).ready(function () {
 
     // Evento del botón que una vez apretado el click() 
