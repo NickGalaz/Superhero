@@ -5,7 +5,7 @@
 
 ## Unidad: 4 - Prueba
 
-#### Contenidos Desarrollado:
+#### Contenidos Desarrollados:
 
 - Introducción al lenguaje Javascript
 
